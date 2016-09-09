@@ -165,7 +165,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
+  width: 200px;
   height: 70px;
   margin-right: 15px;
 
@@ -212,6 +212,7 @@ img {
 
 nav {
   float: right;
+  padding: 10px;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
@@ -224,7 +225,9 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+//    margin-left: 20px;
+    margin: 0 10px;
+
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -236,6 +239,42 @@ nav {
     }
   }
 }
+
+.subnavdiv {
+  height: auto;
+  box-sizing: border-box;
+  float: right;
+}
+.subnav {
+  padding: 10px;
+  background-color: #eee;
+  margin-top: 0; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
+  
+
+  @include mobile {
+    float: none;
+    margin-top: 0px;
+    display: block;
+    font-size: 16px;
+  }
+  li {
+    display: inline-block;
+  }
+  a {
+    margin: 0 10px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $blue;
+    }
+  }
+} 
 
 //
 // .main
