@@ -16,6 +16,7 @@ Announcing the Hackathon Challenge for the [Visual Text Analytics and Social Sci
 1. Download the contest corpus, which consists of the US Presidential candidate debates from the current election. These are available as: 
     * a [zip file of plain texts **here**](http://www.kenbenoit.net/files/presidential_debates_2015-2016.zip)
     * a [quanteda](https://github.com/kbenoit/quanteda) [corpus object](http://www.kenbenoit.net/files/presidential_debates_2015-2016.zip), which can be loaded in R using
+    
     This is separated by speaker and including full meta-data at the document level &#8211; a bonus since this involved significant processing. (See the [.R file used to do this](http://www.kenbenoit.net/files/create_presidential_debates_corpus.R).)
         
 2. Produce a visualization from some analysis of any or all of the texts above. This is completely open-ended.
