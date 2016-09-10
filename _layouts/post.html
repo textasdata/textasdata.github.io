@@ -4,14 +4,16 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
+  <div class="posted">
+    Posted on {{ page.date | date: "%B %e, %Y" }}{% if page.author %} by {{page.author}}{% endif %}
+  </div>
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
+<!--  <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  </div> -->
 
   {% include disqus.html %}
 </article>
