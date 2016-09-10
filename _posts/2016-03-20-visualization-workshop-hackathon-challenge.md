@@ -16,6 +16,7 @@ Announcing the Hackathon Challenge for the [Visual Text Analytics and Social Sci
 1. Download the contest corpus, which consists of the US Presidential candidate debates from the current election. These are available as: 
   * a [zip file of plain texts **here**](http://www.kenbenoit.net/files/presidential_debates_2015-2016.zip)
   * a [quanteda](https://github.com/kbenoit/quanteda) [corpus object](http://www.kenbenoit.net/files/presidential_debates_2015-2016.zip), which can be loaded in R using
+
 ```R
 load(url("http://www.kenbenoit.net/files/presDebateCorpus2016seg.RData"))
 ```  
