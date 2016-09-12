@@ -6,7 +6,7 @@ author: Kenneth Benoit
 layout: post
 guid: http://www.textasdata.com/?p=138
 permalink: /2016/03/visualization-workshop-hackathon-challenge/
-categories:
+tags:
   - Uncategorized
 ---
 Announcing the Hackathon Challenge for the [Visual Text Analytics and Social Science Workshop](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/engineering/datascienceinstitute/eventssummary/event_8-3-2016-14-23-57), to be held at Imperial College London and the London School of Economics, 24-25 March 2015.

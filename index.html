@@ -4,11 +4,21 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+    {% assign tags = post.tags %}
+  
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="posted">
         Posted on {{ post.date | date: "%B %e, %Y" }}{% if post.author %} by {{post.author}}{% endif %}
+        <div class="post-tags">
+          Tags: 
+          {% for tag in tags %}
+            <a href="{{ site.baseurl }}/tags#{{ tag | slugize }}">
+              {{ tag }}
+            </a>
+          {% endfor %}
+        </div>
       </div>
 
       <div class="entry">
