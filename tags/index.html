@@ -33,7 +33,7 @@ permalink: /tags
       </h3>
 
       {% for post in site.tags[tag_name] %}
-        <p><a href="{{ site.baseurl ]}{{ post.url }}">
+        <p><a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
         </a></p>
       {% endfor %}
