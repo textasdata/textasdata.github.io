@@ -2,14 +2,17 @@
 
 ## Install Jekyll
 1. Install a new version of ruby (via homebrew)
+
   ```
   brew isntall ruby
   ```
 2. Install Jekyll
+
   ```
   gem install jekyll
   ```
   - you may have to install dependencies
+  
     ```
 gem install jekyll-sitemap
 gem install jekyll-feed
@@ -20,7 +23,7 @@ gem install jekyll-feed
 1. Clone github repository
 2. Start jekyll 
   - `cd` to the root of the repo
-  - `jekyll serve --baseurl ""`
+  - start jekyll server: `jekyll serve --baseurl ""`
 3. On the browser access [http://localhost:4000](http://localhost:4000)
 
 ## Links
