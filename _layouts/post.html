@@ -10,12 +10,14 @@ layout: default
     Posted on {{ page.date | date: "%B %e, %Y" }}{% if page.author %} by {{page.author}}{% endif %}
     <span class="post-meta">
   <div class="post-tags">
+    {% if tags %}
     Tags: 
     {% for tag in tags %}
       <a href="{{ site.baseurl }}/tags#{{ tag | slugize }}">
         {{ tag }}
       </a>
     {% endfor %}
+    {% endif %}
   </div>
 </span>
 

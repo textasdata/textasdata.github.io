@@ -1,10 +1,8 @@
 ---
-id: 114
 title: Text analysis of the 10th Republican Presidential candidate debate using R and the quanteda package
-date: 2016-02-26T14:07:36+00:00
+date: 2016-02-26
 author: Kenneth Benoit
 layout: post
-guid: http://www.textasdata.com/?p=114
 permalink: /2016/02/text-analysis-of-the-10th-republican-presidential-candidate-debate-using-r-and-the-quanteda-package/
 tags:
   - quanteda

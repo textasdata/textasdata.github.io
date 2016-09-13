@@ -4,7 +4,6 @@ title: Visualization Workshop Hackathon Challenge
 date: 2016-03-20T22:24:51+00:00
 author: Kenneth Benoit
 layout: post
-guid: http://www.textasdata.com/?p=138
 permalink: /2016/03/visualization-workshop-hackathon-challenge/
 tags:
   - Uncategorized

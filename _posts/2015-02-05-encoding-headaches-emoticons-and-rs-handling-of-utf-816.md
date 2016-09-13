@@ -1,10 +1,8 @@
 ---
-id: 89
 title: 'Encoding headaches, emoticons, and R&#8217;s handling of UTF-8/16'
-date: 2015-02-05T09:40:50+00:00
+date: 2015-02-05
 author: Kenneth Benoit
 layout: post
-guid: http://text.kbenoit.webfactional.com/?p=89
 permalink: /2015/02/encoding-headaches-emoticons-and-rs-handling-of-utf-816/
 tags:
   - quanteda

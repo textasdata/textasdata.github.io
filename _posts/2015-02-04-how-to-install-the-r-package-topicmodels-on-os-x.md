@@ -1,10 +1,8 @@
 ---
-id: 52
 title: How to install the R package topicmodels on OS X
-date: 2015-02-04T16:53:39+00:00
+date: 2015-02-04
 author: Kenneth Benoit
 layout: post
-guid: http://text.kbenoit.webfactional.com/?p=52
 permalink: /2015/02/how-to-install-the-r-package-topicmodels-on-os-x/
 tags:
   - R

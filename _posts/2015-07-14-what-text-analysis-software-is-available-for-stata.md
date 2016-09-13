@@ -1,10 +1,8 @@
 ---
-id: 110
 title: What text analysis software is available for Stata?
-date: 2015-07-14T08:41:50+00:00
+date: 2015-07-14
 author: Kenneth Benoit
 layout: post
-guid: http://www.textasdata.com/?p=110
 permalink: /2015/07/what-text-analysis-software-is-available-for-stata/
 tags:
   - General
