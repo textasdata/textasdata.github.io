@@ -15,7 +15,7 @@
     <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -33,18 +33,20 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/about/approach">About</a>
             <a href="{{ site.baseurl }}/tutorials_main">Tutorials</a>
             <a href="{{ site.baseurl }}/events">Events</a>
-            <a href="{{ site.baseurl }}/resources">Resources</a>
+            <a href="{{ site.baseurl }}/resources/software">Resources</a>
           </nav>
         </header>
       </div>
     </div>
 
     <div id="main" role="main" class="container">
+      
       {{ content }}
     </div>
+
 
     <div class="wrapper-footer">
       <div class="container">
@@ -53,6 +55,8 @@
         </footer>
       </div>
     </div>
+    
+
 
     {% include analytics.html %}
   </body>
