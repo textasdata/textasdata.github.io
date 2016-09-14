@@ -32,18 +32,16 @@ layout: default
   </div>
 
   <div id="share-buttons">
-    <a class="btnz share twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.footer-links.twitter }}&related={{ site.footer-links.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i> Tweet</a>
-    <a class="btnz share facebook"  href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i> Share</a>
-    <!-- Googple Plus Share Button -->
-    <a class="btnz share gplus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i> Share</a>
     <!-- Twitter Share Button -->
+    <a class="btnz share twitter_link" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.mainurl }}{{ page.url }}&via={{ site.footer-links.twitter }}&related={{ site.footer-links.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i> Tweet</a>
+    <!-- Facebook Share Button -->
+    <a class="btnz share facebook"  href="https://facebook.com/sharer.php?u={{ site.mainurl }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i> Share</a>
+    <!-- Googple Plus Share Button -->
+    <a class="btnz share gplus" href="https://plus.google.com/share?url={{ site.mainurl }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i> Share</a>
 
   </div>
-  
-  
-<!--  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div> -->
+
+  <div style="clear:both;"></div>
 
   {% include disqus.html %}
 </article>
