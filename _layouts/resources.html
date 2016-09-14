@@ -2,12 +2,21 @@
 layout: default
 ---
 
-<div class="subnavdiv">
-  <ul class="subnav">
-    <li><a href="{{ site.baseurl }}/resources/software">Software</a></li>
-    <li><a href="{{ site.baseurl }}/resources/blogroll">Blogroll</a></li>
-    <li><a href="{{ site.baseurl }}/resources/encoding">Encoding</a></li>    
-    <li><a href="{{ site.baseurl }}/resources/bibliographic">Bibliographic</a></li>    
+<div> <!-- menu for bigger screen-->
+  <ul class="nav nav-tabs hidden-xs">
+    <li {% if page.url contains "software" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/software">Software</a></li>
+    <li {% if page.url contains "blogroll" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/blogroll">Blogroll</a></li>
+    <li {% if page.url contains "encoding" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/encoding">Encoding</a></li>    
+    <li {% if page.url contains "bibliographic" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/bibliographic">Bibliographic</a></li>    
+  </ul>
+</div>
+
+<div><!-- menu for mobile-->
+  <ul class="nav nav-pills visible-xs-inline">
+    <li {% if page.url contains "software" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/software">Software</a></li>
+    <li {% if page.url contains "blogroll" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/blogroll">Blogroll</a></li>
+    <li {% if page.url contains "encoding" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/encoding">Encoding</a></li>    
+    <li {% if page.url contains "bibliographic" %}class="active"{% endif %}><a href="{{ site.baseurl }}/resources/bibliographic">Bibliographic</a></li>    
   </ul>
 </div>
 
