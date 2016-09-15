@@ -13,7 +13,6 @@ description: A blog about the Quantitative Analysis of Textual Data
 #avatar: http://text.kbenoit.webfactional.com/wp-content/uploads/2015/02/TADheader640px.png
 avatar: images/TADheader640px.png
 
-mainurl: https://kbenoit.github.io/textasdata-on-jekyll
 
 #
 # Flags below are optional
@@ -45,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://kbenoit.github.io/textasdata-on-jekyll
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
