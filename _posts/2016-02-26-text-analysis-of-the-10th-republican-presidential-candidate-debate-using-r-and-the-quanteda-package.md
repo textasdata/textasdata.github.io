@@ -96,7 +96,7 @@ cat(paste(substring(transcriptText, 1, 1000), substring(transcriptText, 5000, 56
 ## graduated from high school at Second Baptist not too far away from here.
 ## CRUZ: When I ran for Senate, I promised 27 million Texans I would fight for
 ## you every day, and not for the Washington bosses.
-##     And, I'll tell you, as I travel the state, Democrats tell me I didn't vote for
+##     And, I'll tell you, as I travel the state, Democrats tell me I didn't vote for
 ## you, but you're doing what you said you would do. And, as president, I will do
 ## the same.BLITZER: Mr. Trump.
 ```
