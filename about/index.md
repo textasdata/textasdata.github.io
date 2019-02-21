@@ -5,11 +5,10 @@ permalink: /about/
 ---
 
 
-About this blog, who funds it, etc.
+*** Text TK ***
 
-### More Information
+Navigate using the tabs above to find out more.
 
-
-### Contact me
+### Contact us
 
 [textasdatablog@gmail.com](mailto:textasdatablog@gmail.com)

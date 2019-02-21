@@ -1,16 +1,16 @@
 ---
-layout: default
+layout: resources
 title: Tutorials
-permlink: /tutorials_main/
+permlink: /resources/tutorials_main
 ---
 
-<h1>Tutorials</h1>
-<div>
-   <div class="container">
-        <div class="row">
-          {% for page in site.pages %}
-            {% if page.url contains "tutorials/" %}
-            <div class="col-xs-6">
+ {% for page in site.pages %} {% if page.url contains "tutorials/" %}
+
+{{ page.title }}
+
+{{ page.description }}
+
+<div class="col-xs-6">
                 <div class="thumbnail">
                     <img src="{{ site.baseurl }}/images/post_images/{{ page.thumnail }}" alt="Sample Image">
                     <div class="caption">
@@ -20,8 +20,4 @@ permlink: /tutorials_main/
                     </div>
                 </div>
             </div>
-            {% endif %}
-          {% endfor %}
-        </div>
-    </div>     
-</div>
+            {% endif %} {% endfor %}
