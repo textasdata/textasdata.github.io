@@ -5,6 +5,3 @@ permalink: /resources/
 ---
 
 This page is devoted to text-related resources.
-
-** Text TK **
-

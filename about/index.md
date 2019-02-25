@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
-*** Text TK ***
-
-Navigate using the tabs above to find out more.
+In this section, find out more about TaDA, our governing structure, and how to join.
 
 ### Contact us
 

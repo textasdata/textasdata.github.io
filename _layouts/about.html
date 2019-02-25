@@ -6,9 +6,10 @@ layout: default
 <div> <!-- menu for bigger screen-->
   <ul class="nav nav-tabs hidden-xs">
       <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/">About</a></li>
-    <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/approach">Text as Data Approach</a></li>
-    <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/governingstructure">Governing Structure</a></li>
-    <li {% if page.url contains "contributors" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/contributors">Contributors</a></li>
+    <!-- <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/approach">Text as Data Approach</a></li> -->
+    <li {% if page.url contains "governingstructure" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/governingstructure">Governing Structure</a></li>
+    <!-- <li {% if page.url contains "contributors" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/contributors">Contributors</a></li> -->
+    <li {% if page.url contains "join" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/join">Join</a></li>
     <li {% if page.url contains "support" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/support">Support</a></li>
   </ul>
 </div>
@@ -16,9 +17,9 @@ layout: default
 <div><!-- menu for mobile-->
   <ul class="nav nav-pills visible-xs-inline">
       <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/">About</a></li>
-    <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/approach">Text as Data Approach</a></li>
-    <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/governingstructure">Governing Structure</a></li>
-    <li {% if page.url contains "contributors" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/contributors">Contributors</a></li>
+    <!-- <li {% if page.url contains "approach" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/approach">Text as Data Approach</a></li> -->
+    <li {% if page.url contains "governingstructure" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/governingstructure">Governing Structure</a></li>
+    <!-- <li {% if page.url contains "contributors" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/contributors">Contributors</a></li> -->
     <li {% if page.url contains "support" %}class="active"{% endif %} ><a href="{{ site.baseurl }}/about/support">Support</a></li>
   </ul>
 </div>

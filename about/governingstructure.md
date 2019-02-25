@@ -4,6 +4,4 @@ title: Governing Structure
 permalink: /about/governingstructure/
 ---
 
-Governing structure of the organization
-
-*** TK ***
+This page has information about the governing structure of TaDA.
