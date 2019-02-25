@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-This page is devoted to text-related resources.
+Visit the tabs above for various text-related resources.
