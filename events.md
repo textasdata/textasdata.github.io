@@ -4,11 +4,21 @@ title: Events
 permlink: /events
 ---
 
-<h1>Upcoming Events</h1>
+The Text as Data Association holds an annual “New Directions in Analyzing Text as Data” conference.
 
-2019 TaDA conference
+Our plan is that the next edition of this conference will take place at Stanford University, on October 5—6, 2019.  You can apply to that conference here (TBD).
 
-<h1>Past Events</h1>
+Previous conferences were as follows:
+
+-	2018, University of Washington
+-	2017, Princeton University
+-	2016, Northeastern University
+-	2015, New York University
+-	2014, Northwestern University
+-	2013, London School of Economics
+-	2012, Harvard University
+
+
 
 <!--
 <div>
