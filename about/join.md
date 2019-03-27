@@ -4,4 +4,6 @@ title: Join
 permalink: /about/join/
 ---
 
-Visit this page to find out about membership and how to join TaDA.
+To join TaDA, please fill out this form:
+
+<a href="https://forms.gle/mvreqkpPQJDWqa86A">https://forms.gle/mvreqkpPQJDWqa86A</a>
