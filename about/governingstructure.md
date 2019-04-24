@@ -16,3 +16,5 @@ The Text as Data Association is governed by a board, headed by a Director.  The 
 * <a href="http://users.umiacs.umd.edu/~resnik/">Philip Resnik, University of Maryland</a>
 * <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling, New York University</a>
 * <a href="http://dirichlet.net/">Hanna Wallach, Microsoft Research</a>
+
+View the <a href="constitution.pdf">constitution (PDF)</a>.
