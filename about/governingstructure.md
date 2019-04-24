@@ -17,4 +17,4 @@ The Text as Data Association is governed by a board, headed by a Director.  The 
 * <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling, New York University</a>
 * <a href="http://dirichlet.net/">Hanna Wallach, Microsoft Research</a>
 
-View the <a href="constitution.pdf">constitution (PDF)</a>.
+View the <a href="http://textasdata.github.io/about/constitution.pdf">constitution (PDF)</a>.
