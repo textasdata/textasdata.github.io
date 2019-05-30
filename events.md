@@ -6,7 +6,7 @@ permlink: /events
 
 The Text as Data Association holds an annual “New Directions in Analyzing Text as Data” conference.
 
-Our plan is that the next edition of this conference will take place at Stanford University, on October 5—6, 2019.  You can apply to that conference here (TBD).
+The next edition of this conference will take place at Stanford University, on October 4—5, 2019.  Please visit the <a href="https://www.textasdata2019.net/">conference website</a>.
 
 Previous conferences were as follows:
 
