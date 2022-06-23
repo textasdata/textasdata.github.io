@@ -4,13 +4,22 @@ title: Events
 permlink: /events
 ---
 
-The Text as Data Association holds an annual “New Directions in Analyzing Text as Data” conference.
+# New Directions in Analyzing Text as Data
 
-The next edition of this conference will take place at Stanford University, on October 4—5, 2019.  Please visit the <a href="https://www.textasdata2019.net/">conference website</a>.
+The Text as Data Association holds an annual “New Directions in Analyzing Text as Data” conference (TADA),
+which is
+a leading forum for research on the study of politics, society, and culture through computational analysis of documents. Recent advances in NLP have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social science, and the humanities.
 
-Previous conferences were as follows:
 
--	2018, University of Washington
+The next edition of this conference will take place on
+October 6-7, 2022 at Cornell Tech, Roosevelt Island, New York City.  See the conference website <a href="https://tada2022.org/">tada2022.org</a>.
+
+Previous conferences:
+
+-       <a href="https://tada2022.org/">2022, Cornell Tech</a>
+-       <a href="https://tada2021.org/">2021, University of Michigan</a>
+-       2019, Stanford University
+-	<a href="https://nlp.washington.edu/tada2018">2018, University of Washington</a>
 -	2017, Princeton University
 -	2016, Northeastern University
 -	2015, New York University
