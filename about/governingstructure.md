@@ -19,4 +19,6 @@ The Text as Data Association is governed by a board, headed by a Director.  The 
 * <a href="http://dirichlet.net/">Hanna Wallach, Microsoft Research</a>
 * <a href="https://sites.google.com/view/leahcwindsor/home">Leah Windsor, University of Memphis</a>
 
+This board member list is current as of October 2022.  Board membership last changed in December 2021.
+
 The Text as Data Association Constitution is <a href="http://textasdata.github.io/about/constitution.pdf">here (PDF)</a>.
