@@ -15,6 +15,7 @@ The Text as Data Association is governed by a board, headed by a Director.  The 
 * <a href="http://users.umiacs.umd.edu/~resnik/">Philip Resnik, University of Maryland</a>
 * <a href="http://www.margaretroberts.net/">Molly Roberts, University of California, San Diego</a>
 * <a href="https://homes.cs.washington.edu/~nasmith/">Noah Smith, University of Washington</a>
+* <a href="https://scholar.princeton.edu/bstewart">Brandon Stewart, Princeton University</a>
 * <a href="http://dirichlet.net/">Hanna Wallach, Microsoft Research</a>
 * <a href="https://sites.google.com/view/leahcwindsor/home">Leah Windsor, University of Memphis</a>
 
