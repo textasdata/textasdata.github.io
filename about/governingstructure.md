@@ -17,7 +17,7 @@ The Text as Data Association is governed by a board, headed by a Director.  The 
 * <a href="https://homes.cs.washington.edu/~nasmith/">Noah Smith, University of Washington</a>
 * <a href="https://scholar.princeton.edu/bstewart">Brandon Stewart, Princeton University</a>
 * <a href="http://dirichlet.net/">Hanna Wallach, Microsoft Research</a>
-* <a href="https://sites.google.com/view/leahcwindsor/home">Leah Windsor, University of Memphis</a>
+* <a href="https://www.thewordwitch.dev/home">Leah Windsor, University of Memphis</a>
 
 This board member list is current as of October 2022.  Board membership last changed in December 2021.
 
