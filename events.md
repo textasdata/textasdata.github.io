@@ -27,7 +27,7 @@ Previous conferences:
 -	<a href="https://projects.iq.harvard.edu/ptr/uncements/new-directions-analyzing-text-data">2014, Northwestern University</a>
 -	<a href="https://kenbenoit.net/new-directions-in-analyzing-text-as-data-workshop-2013/">2013, London School of Economics</a>
 -	<a href="https://www.cs.cornell.edu/home/llee/extra/new-directions-analyzing-text-data-2012.html">2012, Harvard University</a>
--       There were several earlier instances as well
+-       There were several earlier instances as well.
 
 
 
