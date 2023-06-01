@@ -21,7 +21,7 @@ Previous conferences:
 -       <a href="https://tada2021.org/">2021, University of Michigan</a>
 -       2019, Stanford University
 -	<a href="http://web.archive.org/web/20220627214230/https://nlp.washington.edu/tada2018">2018, University of Washington</a>
--	<a href="https://textasdata2017.net/"2017, Princeton University</a>
+-	<a href="https://textasdata2017.net/">2017, Princeton University</a>
 -	<a href="https://www.northeastern.edu/textasdata2016/">2016, Northeastern University</a>
 -	2015, New York University
 -	<a href="https://projects.iq.harvard.edu/ptr/uncements/new-directions-analyzing-text-data">2014, Northwestern University</a>
