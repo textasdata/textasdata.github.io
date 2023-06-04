@@ -16,18 +16,19 @@ November 9-10, 2023 at University of Masschusetts Amherst.
 
 Previous conferences:
 
--       2023, UMass Amherst (website forthcoming)
--       <a href="https://tada2022.org/">2022, Cornell Tech</a>
--       <a href="https://tada2021.org/">2021, University of Michigan</a>
--       <a href="http://web.archive.org/web/20200803225511/http://textasdata2019.net/">2019, Stanford University</a>
+-   [2023, UMass Amherst](https://tada2023.org/)
+-   <a href="https://tada2022.org/">2022, Cornell Tech (NYC)</a>
+-   <a href="https://tada2021.org/">2021, University of Michigan</a>
+-   <a href="http://web.archive.org/web/20200803225511/http://textasdata2019.net/">2019, Stanford University</a>
 -	<a href="http://web.archive.org/web/20220627214230/https://nlp.washington.edu/tada2018">2018, University of Washington</a>
 -	<a href="https://textasdata2017.net/">2017, Princeton University</a>
 -	<a href="https://www.northeastern.edu/textasdata2016/">2016, Northeastern University</a>
--	2015, New York University
+-	<a href="http://web.archive.org/web/20171109052848/http://textasdata.nyudatascience.org/">2015, New York University</a>
 -	<a href="https://projects.iq.harvard.edu/ptr/uncements/new-directions-analyzing-text-data">2014, Northwestern University</a>
 -	<a href="https://kenbenoit.net/new-directions-in-analyzing-text-as-data-workshop-2013/">2013, London School of Economics</a>
 -	<a href="https://www.cs.cornell.edu/home/llee/extra/new-directions-analyzing-text-data-2012.html">2012, Harvard University</a>
--       There were several earlier instances as well.
+-   2011, Northwestern University
+-   2010, Northwestern University
 
 
 
