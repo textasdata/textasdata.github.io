@@ -19,7 +19,7 @@ Previous conferences:
 -       2023, UMass Amherst (website forthcoming)
 -       <a href="https://tada2022.org/">2022, Cornell Tech</a>
 -       <a href="https://tada2021.org/">2021, University of Michigan</a>
--       2019, Stanford University
+-       <a href="http://web.archive.org/web/20200803225511/http://textasdata2019.net/">2019, Stanford University</a>
 -	<a href="http://web.archive.org/web/20220627214230/https://nlp.washington.edu/tada2018">2018, University of Washington</a>
 -	<a href="https://textasdata2017.net/">2017, Princeton University</a>
 -	<a href="https://www.northeastern.edu/textasdata2016/">2016, Northeastern University</a>
