@@ -8,7 +8,8 @@ permlink: /events
 
 The Text as Data Association holds an annual “New Directions in Analyzing Text as Data” conference (TADA),
 which is
-a leading forum for research on the study of politics, society, and culture through computational analysis of documents. Recent advances in natural language processing have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social science, and the humanities.
+a leading forum for research on the study of politics, society, and culture through computational analysis of documents. Recent advances in natural language processing have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities.
+This meeting brings together researchers from all these areas.
 
 
 The next edition of this conference will take place on
@@ -29,7 +30,7 @@ Previous conferences:
 -	<a href="https://www.cs.cornell.edu/home/llee/extra/new-directions-analyzing-text-data-2012.html">2012, Harvard University</a>
 -   2011, Northwestern University
 -   2010, Northwestern University
-
+-   [2009, Harvard University](https://www.cs.cornell.edu/home/llee/extra/NewDirectionsInTextAnalysisAgenda.doc)
 
 
 <!--
