@@ -29,6 +29,7 @@ Previous conferences:
 -   [2010, Northwestern University](/images/2010_TextAsDataAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/TextAsDataAgenda.doc))
 -   [2009, Harvard University](/images/2009_NewDirectionsInTextAnalysisAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/NewDirectionsInTextAnalysisAgenda.doc))
 
+The nomenclature "1st annual," "2nd annual," etc., starts with the 2010 meeting as the "first."  The 2009 meeting is thus number zero.
 
 <!--
 <div>
