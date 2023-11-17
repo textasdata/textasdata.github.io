@@ -11,10 +11,6 @@ which is
 a leading forum for research on the study of politics, society, and culture through computational analysis of documents. Recent advances in natural language processing have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities.
 This meeting brings together researchers from all these areas.
 
-
-The next edition of this conference will take place on
-November 9-10, 2023 at University of Masschusetts Amherst.
-
 Previous conferences:
 
 -   [2023, UMass Amherst](https://tada2023.org/)
@@ -31,7 +27,7 @@ Previous conferences:
 -   [2011, Northwestern University](/images/Text-as-Data-Agenda-2011-FINAL-1.pdf) (from [here](https://quanttext.com/wp-content/uploads/2018/09/Text-as-Data-Agenda-2011-FINAL-1.pdf  
 ))
 -   [2010, Northwestern University](/images/2010_TextAsDataAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/TextAsDataAgenda.doc))
--   [2009, Harvard University](https://www.cs.cornell.edu/home/llee/extra/NewDirectionsInTextAnalysisAgenda.doc)
+-   [2009, Harvard University](/images/2009_NewDirectionsInTextAnalysisAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/NewDirectionsInTextAnalysisAgenda.doc))
 
 
 <!--
