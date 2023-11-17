@@ -28,8 +28,9 @@ Previous conferences:
 -	<a href="https://projects.iq.harvard.edu/ptr/uncements/new-directions-analyzing-text-data">2014, Northwestern University</a>
 -	<a href="https://kenbenoit.net/new-directions-in-analyzing-text-as-data-workshop-2013/">2013, London School of Economics</a>
 -	<a href="https://www.cs.cornell.edu/home/llee/extra/new-directions-analyzing-text-data-2012.html">2012, Harvard University</a>
--   2011, Northwestern University
--   2010, Northwestern University
+-   [2011, Northwestern University](/images/Text-as-Data-Agenda-2011-FINAL-1.pdf) (from [here](https://quanttext.com/wp-content/uploads/2018/09/Text-as-Data-Agenda-2011-FINAL-1.pdf  
+))
+-   [2010, Northwestern University](/images/2010_TextAsDataAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/TextAsDataAgenda.doc))
 -   [2009, Harvard University](https://www.cs.cornell.edu/home/llee/extra/NewDirectionsInTextAnalysisAgenda.doc)
 
 
