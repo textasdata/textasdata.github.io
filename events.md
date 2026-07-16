@@ -9,10 +9,11 @@ permlink: /events
 The Text as Data Association holds an annual “New Directions in Analyzing Text as Data” conference (TADA),
 which is
 a leading forum for research on the study of politics, society, and culture through computational analysis of documents. Recent advances in natural language processing have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities.
-This meeting brings together researchers from all these areas.
+This meeting has a unique history in being founded collaboratively by both computer scientists and social scientists, and has a long history of bringing together researchers from all these areas.
 
 Previous conferences:
 
+-   [2026, UC Berkeley](https://tada2026.org/)
 -   [2023, UMass Amherst](https://tada2023.org/)
 -   <a href="https://tada2022.org/">2022, Cornell Tech (NYC)</a>
 -   <a href="https://tada2021.org/">2021, University of Michigan</a>
@@ -29,7 +30,6 @@ Previous conferences:
 -   [2010, Northwestern University](/images/2010_TextAsDataAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/TextAsDataAgenda.doc))
 -   [2009, Harvard University](/images/2009_NewDirectionsInTextAnalysisAgenda.pdf) (from [here](https://www.cs.cornell.edu/home/llee/extra/NewDirectionsInTextAnalysisAgenda.doc))
 
-The nomenclature "1st annual," "2nd annual," etc., starts with the 2010 meeting as the "first."  The 2009 meeting is thus number zero.
 
 <!--
 <div>
