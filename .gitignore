@@ -8,3 +8,6 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+.Rproj.user
+.Rhistory
+textasdata.github.io.Rproj
