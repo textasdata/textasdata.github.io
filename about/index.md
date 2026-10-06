@@ -14,9 +14,6 @@ The association is open to members from any field of inquiry, academic disciplin
 * hold an annual conference---<a href="../events">"New Directions in Analyzing Text as Data"</a>---bringing together academics and others to discuss developments in the field.
 * describe and promote best practices for text-as-data education and research.
 
-If you are interested in becoming a member, please go to our <a href="join/">Join</a> page and follow the instructions there.
-
-
 
 <!-- ### Contact us
 

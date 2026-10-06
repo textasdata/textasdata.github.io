@@ -4,6 +4,8 @@ title: Join
 permalink: /about/join/
 ---
 
-To join TaDA, please fill out this form:
+Anyone is welcome to join the TaDA mailing list, which is low-traffic and receives announcementsc
+of interest to the "Text as Data" community (including attendees of past conferences);
+instructions to join are here: <a href="https://groups.google.com/g/text-as-data/">https://groups.google.com/g/text-as-data/</a>
 
-<a href="https://forms.gle/mvreqkpPQJDWqa86A">https://forms.gle/mvreqkpPQJDWqa86A</a>
+
